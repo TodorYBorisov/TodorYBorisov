@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Todor Borisov</h1>
-<h3 align="center">Welcome to my profile! I am a passionate junior frontend developer from Sofia, Bulgaria.</h3>
+<h3 align="center">Welcome to my profile! I am an ambitious junior frontend developer based in Sofia, Bulgaria, with a genuine passion for my work.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=todoryborisov" alt="todoryborisov" /></a> </p>
-
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, TypeScript, NodeJS, Angular, React**
+- 🌱 I’m currently learning **JavaScript,NodeJS,TypeScript, Angular, HTML5, CSS3 & React**
 
 ## 🎓 Certificates:
 - [QA Fundamentals - January 2021](https://softuni.bg/certificates/details/101274/0c124046)
@@ -15,3 +13,8 @@
 
 ## 🔧 Technologies & Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,cs,nodejs,mongodb,firebase,express,github,postman,selenium,angular,ts,html,css,react)](https://skillicons.dev)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=todoryborisov" alt="todoryborisov" /></a> </p>
+<!-- 📞 Connect with me:
+- Email:
+- LinkedIn: -->
