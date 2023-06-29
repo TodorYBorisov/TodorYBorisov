@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Todor Borisov</h1>
 <h3 align="center">Welcome to my profile! I am an ambitious junior frontend developer based in Sofia, Bulgaria, with a genuine passion for my work.</h3>
 
-- 🌱 I’m currently learning **JavaScript,NodeJS,TypeScript, Angular, HTML5, CSS3 & React**
+- 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript, Angular, HTML5, CSS3 & React**
 
 <!--## 🎓 Certificates:
 - [QA Fundamentals - January 2021](https://softuni.bg/certificates/details/101274/0c124046)
