@@ -14,7 +14,8 @@
 - [JS Advanced - January 2023](https://softuni.bg/certificates/details/160045/e557ceb2)
 - [JS Applications - February 2023](https://softuni.bg/certificates/details/167735/00c3f534)
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175188/3368fea8)
-- [Angular - June 2023](https://softuni.bg/certificates/details/182945/d0f3014d) -->
+- [Angular - June 2023](https://softuni.bg/certificates/details/182945/d0f3014d)
+- [HTML & CSS - September 2023 2023](https://softuni.bg/Certificates/Details/190729/7136715a)-->
 
 ## 🔧 Technologies & Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,cs,nodejs,mongodb,firebase,express,github,postman,selenium,angular,ts,html,css,react)](https://skillicons.dev)
