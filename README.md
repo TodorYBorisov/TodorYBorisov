@@ -3,8 +3,12 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript, Angular, HTML5, CSS3 & React**
 
-## 🎉 My first project with Angular and Express.js
-- 🌍 Live demo: [Trip Together](https://triptogether1.netlify.app/home)
+## 🎉 My project with React
+- 🌍 Live Demo: [Boats4U](https://boats4u.vercel.app/)
+- 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Boats4U-App-React)
+- 
+## 🎉 My project with Amgular
+- 🌍 Live Demo: [Trip Together](https://triptogether1.netlify.app/home)
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Angular-Trip-Together)
 
 <!--## 🎓 Certificates:
