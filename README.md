@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Todor Borisov</h1>
+<h1 align="center">Hi 👋, I'm Todor</h1>
 <h3 align="center">Welcome to my profile! I am an ambitious person, constantly developing and learning new things with a real passion for my work.</h3>
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript, Angular, HTML5, CSS3 & React**
