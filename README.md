@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript, Angular, HTML5, CSS3 & React**
 
-## 🎉 My project with React
+## My project with React
 - 🌍 Live Demo: [Boats4U](https://boats4u.vercel.app/)
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Boats4U-App-React)
   
-## 🎉 My project with Angular
+## My project with Angular
 - 🌍 Live Demo: [Trip Together](https://triptogether1.netlify.app/home)
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Angular-Trip-Together)
 
