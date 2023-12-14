@@ -30,4 +30,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=todoryborisov" alt="todoryborisov" /></a> </p>
 📞 Connect with me:
 - Email: todor0203@gmail.com
-- LinkedIn:https://www.linkedin.com/in/todor-borisov-92378131
+- LinkedIn: [Todor Borisov](https://www.linkedin.com/in/todor-borisov-92378131/)
