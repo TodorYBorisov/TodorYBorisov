@@ -28,6 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,cs,nodejs,mongodb,firebase,express,github,postman,selenium,angular,ts,html,css,react)](https://skillicons.dev)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=todoryborisov" alt="todoryborisov" /></a> </p>
-📞 Connect with me:
+
+## 📞 Connect with me:
 - Email: todor0203@gmail.com
-- LinkedIn: [Todor Borisov](https://www.linkedin.com/in/todor-borisov-92378131/)
+- LinkedIn: [Todor Borisov](https://www.linkedin.com/in/todor-borisov-92378131)
