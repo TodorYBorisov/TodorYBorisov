@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my profile! I am an ambitious person, constantly developing and learning new things with a real passion for my work.</h3>
 
 - 🎓 Software University JS Web Developer
-- 💪 Hardworking and with constant desire to learn new things and self-improve
+- 💪 Hardworking and with a constant desire to learn new things and self-improvement
 - 🎯 Self-motivated, team player and ready for new challenges
 
 ## My project with React
