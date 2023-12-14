@@ -13,7 +13,7 @@
 - 🌍 Live Demo: [Trip Together](https://triptogether1.netlify.app/home)
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Angular-Trip-Together)
 
-🎓 Certificates:
+## 🎓 Certificates:
 - [QA Fundamentals - January 2021](https://softuni.bg/certificates/details/101274/0c124046)
 - [Programming Basics C# & JS - July 2022](https://softuni.bg/certificates/details/140057/5b6b7d82)
 - [Programming Fundamentals JS - September 2022](https://softuni.bg/certificates/details/149639/a758af5a)
