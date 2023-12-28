@@ -14,7 +14,7 @@
 - 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Angular-Trip-Together)
 
 ## 🎓 Certificates:
-- [JS Web Developer](https://softuni.bg/Certificates/Details/199365/3a6d5cf9)
+- [JS Web Developer - December 2023](https://softuni.bg/Certificates/Details/199365/3a6d5cf9)
 - [ReactJS - October 2023](https://softuni.bg/Certificates/Details/197795/af10e31d)
 - [HTML & CSS - September 2023](https://softuni.bg/Certificates/Details/190729/7136715a)
 - [Angular - June 2023](https://softuni.bg/certificates/details/182945/d0f3014d)
