@@ -7,11 +7,11 @@
 
 ## My project with React
 - 🌍 Live Demo: [Boats4U](https://boats4u.vercel.app/)
-- 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Boats4U-App-React)
+- 📂 GitHub Repository: [Link to the project and documentation](https://github.com/TodorYBorisov/Boats4U-App-React)
   
 ## My project with Angular
 - 🌍 Live Demo: [Trip Together](https://triptogether1.netlify.app/home)
-- 📂 GitHub Repository: [Link to entire project and documentation](https://github.com/TodorYBorisov/Angular-Trip-Together)
+- 📂 GitHub Repository: [Link to the project and documentation](https://github.com/TodorYBorisov/Angular-Trip-Together)
 
 ## 🎓 Certificates:
 - [JS Web Developer - December 2023](https://softuni.bg/Certificates/Details/199365/3a6d5cf9)
